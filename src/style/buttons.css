@@ -1,0 +1,15 @@
+.orangeBtn {
+	background-color: #ff9500;
+}
+.orangeBtn:hover {
+	background-color: #ff9500a0 !important;
+}
+.blackBtn {
+	background-color: #1c1c1c;
+}
+.grayBtn {
+	background-color: #505050;
+}
+.whiteBtn {
+	background-color: #d4d4d2;
+}
