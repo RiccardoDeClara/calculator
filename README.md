@@ -1,0 +1,2 @@
+# calculator
+Easy calculator 🧮
